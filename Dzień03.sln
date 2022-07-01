@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02Funkcje", "P02Funkcje\P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03WlasneKlasy", "P03WlasneKlasy\P03WlasneKlasy.csproj", "{70E8CE03-4906-4386-9966-5C474CC0A704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04Kontak", "P04Kontak\P04Kontak.csproj", "{0F3B59AC-BCC8-4687-AB1E-14C316A3CED1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04Kontakt", "P04Kontak\P04Kontakt.csproj", "{0F3B59AC-BCC8-4687-AB1E-14C316A3CED1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
